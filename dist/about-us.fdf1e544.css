@@ -1,0 +1,79 @@
+.divplaceholder3, .input6 {
+  flex-direction: row;
+  flex: 1;
+  align-items: flex-start;
+  display: flex;
+}
+
+.divplaceholder3 {
+  background-color: #0000;
+  border: 0;
+  justify-content: space-between;
+  padding: 0 464px 0 0;
+  font-family: Poppins;
+  font-size: 20px;
+  overflow: hidden;
+}
+
+.input6 {
+  background-color: #fff;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  border-left: 1px solid #e5e5e5;
+  justify-content: flex-start;
+  padding: 17.5px 32px 20.5px 33px;
+}
+
+.search1 {
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+  width: 77.12px;
+  height: 28px;
+  font-weight: 300;
+  line-height: 23px;
+  display: flex;
+  position: relative;
+}
+
+.button19 {
+  box-sizing: border-box;
+  background-color: #138ccc;
+  flex-direction: column;
+  flex: 1;
+  height: 68px;
+  padding: 19.5px 0;
+}
+
+.button19, .certification-registary-page, .form {
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+}
+
+.form {
+  background-color: #0000;
+  flex-direction: row;
+  width: 940px;
+  overflow: hidden;
+  box-shadow: 0 8px 20px -8px #000;
+}
+
+.certification-registary-page {
+  box-sizing: border-box;
+  text-align: center;
+  color: #fff;
+  background-image: url("certification-registary-page@3x.4cbfe3c3.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+  width: 100%;
+  height: 810px;
+  padding: 363px 0;
+  font-family: Poppins;
+  font-size: 20px;
+  position: relative;
+}
+
+/*# sourceMappingURL=about-us.fdf1e544.css.map */

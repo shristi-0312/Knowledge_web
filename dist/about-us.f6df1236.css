@@ -1,0 +1,42 @@
+@media (width <= 767px) {
+  #hero-banner {
+    background-image: none;
+  }
+
+  #hero-banner .hero__article-block .article__block--title {
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.3;
+    font-family: var(--font-poppins);
+    margin-bottom: 10px;
+  }
+
+  .courses {
+    display: -ms-grid;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
+
+  #hero-banner .hero__article-short-course-list {
+    margin: 1rem 0 0;
+  }
+
+  .swiper-slide .slider-content p {
+    font-family: var(--font-poppins);
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 700;
+    font-size: .8rem !important;
+  }
+
+  #short-info-counter {
+    display: none !important;
+  }
+
+  #banner-section .banner-bg .banner-title {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=index.f6df1236.css.map */

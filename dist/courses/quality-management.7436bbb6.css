@@ -1,0 +1,557 @@
+.rectangle116 {
+  background-color: var(--color-white);
+  width: 80rem;
+  height: 6.13rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 10px 26px #0000000d;
+}
+
+.image2, .rectangle117 {
+  text-decoration: none;
+  position: absolute;
+}
+
+.image2 {
+  background-image: url("../image@3x.bab8fba1.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 9.88rem;
+  height: 6.13rem;
+  top: 0;
+  left: .94rem;
+}
+
+.rectangle117 {
+  background-color: var(--color-steelblue-100);
+  width: 7.94rem;
+  height: 2.44rem;
+  top: 2rem;
+  left: 53.25rem;
+}
+
+.rectangle118, .rectangle119 {
+  border-radius: var(--br-8xs);
+  width: 2.75rem;
+  height: 1.75rem;
+  position: absolute;
+  top: 2.19rem;
+  left: 67.44rem;
+}
+
+.rectangle119 {
+  background-color: var(--color-white);
+  width: 6.94rem;
+  height: 1.13rem;
+  top: 2.5rem;
+  left: 71.38rem;
+}
+
+.rectangle120, .rectangle121 {
+  width: 78.94rem;
+  height: 8.63rem;
+  position: absolute;
+  top: 6.13rem;
+  left: 0;
+}
+
+.rectangle121 {
+  background-color: var(--color-aliceblue-100);
+  width: 80rem;
+}
+
+.rectangle122, .rectangle123 {
+  border-radius: var(--br-8xs);
+  position: absolute;
+}
+
+.rectangle122 {
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 15.13rem;
+  height: 3.25rem;
+  top: 17.25rem;
+  left: 48.75rem;
+}
+
+.rectangle123 {
+  width: 10.88rem;
+  height: 1.25rem;
+  top: 18.25rem;
+  left: 65.13rem;
+}
+
+.image-icon16, .rectangle124, .rectangle125 {
+  width: 73.13rem;
+  height: 13.94rem;
+  position: absolute;
+  top: 22.44rem;
+  left: 2.94rem;
+}
+
+.image-icon16, .rectangle125 {
+  width: 20rem;
+  height: 12rem;
+}
+
+.rectangle125 {
+  border-radius: var(--br-8xs);
+}
+
+.image-icon16 {
+  object-fit: cover;
+}
+
+.rectangle126 {
+  border-radius: var(--br-11xs);
+  background-color: var(--color-crimson);
+  width: 5.13rem;
+  height: 1.44rem;
+  position: absolute;
+  top: 23.06rem;
+  left: 3.56rem;
+}
+
+.rectangle127, .rectangle128 {
+  border-radius: var(--br-8xs);
+  position: absolute;
+}
+
+.rectangle127 {
+  background-color: var(--color-dodgerblue-100);
+  border: 1px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+  width: 9.06rem;
+  height: 2.5rem;
+  top: 31rem;
+  left: 24.81rem;
+}
+
+.rectangle128 {
+  width: 2.5rem;
+  height: .88rem;
+  top: 31.81rem;
+  left: 34.5rem;
+}
+
+.rectangle129, .rectangle130 {
+  background-color: var(--color-gray-500);
+  position: absolute;
+}
+
+.rectangle129 {
+  width: 80rem;
+  height: 26.75rem;
+  top: 41.31rem;
+  left: 0;
+}
+
+.rectangle130 {
+  width: 77.69rem;
+  height: 18.25rem;
+  top: 47.31rem;
+  left: .63rem;
+}
+
+.rectangle131 {
+  background-color: var(--color-gray-300);
+  width: 80rem;
+  height: 5.13rem;
+  position: absolute;
+  top: 68.06rem;
+  left: 0;
+}
+
+.certification-registry4, .courses4, .industries2 {
+  color: var(--color-darkslategray-100);
+  width: 4.5rem;
+  line-height: 1.4rem;
+  display: inline-block;
+  position: absolute;
+  top: 2.5rem;
+  left: 13.56rem;
+}
+
+.certification-registry4, .courses4 {
+  color: var(--color-steelblue-100);
+  width: 3.69rem;
+  left: 20.13rem;
+}
+
+.certification-registry4 {
+  color: var(--color-darkslategray-100);
+  width: 9.81rem;
+  left: 25.88rem;
+}
+
+.become-an-instructor2 {
+  color: var(--color-darkslategray-100);
+  width: 9.75rem;
+  text-decoration: none;
+  left: 36.94rem;
+}
+
+.about-us6, .become-an-instructor2, .custom-pay2, .log-in2, .sign-up2 {
+  line-height: 1.4rem;
+  display: inline-block;
+  position: absolute;
+  top: 2.5rem;
+}
+
+.about-us6 {
+  color: var(--color-darkslategray-100);
+  width: 4.06rem;
+  text-decoration: none;
+  left: 47.94rem;
+}
+
+.custom-pay2, .log-in2, .sign-up2 {
+  width: 5.44rem;
+  left: 54.5rem;
+}
+
+.log-in2, .sign-up2 {
+  color: var(--color-dimgray);
+  text-align: center;
+  width: 2.75rem;
+  line-height: 1.14rem;
+  top: 2.44rem;
+  left: 67.44rem;
+}
+
+.sign-up2 {
+  color: var(--color-dodgerblue-100);
+  width: 3.44rem;
+  left: 73.13rem;
+}
+
+.courses5, .home2, .quality-management-courses, .quality-management1 {
+  color: var(--color-darkgray-100);
+  width: 2.69rem;
+  line-height: 1.46rem;
+  display: inline-block;
+  position: absolute;
+  top: 7.13rem;
+  left: 3.13rem;
+}
+
+.courses5, .quality-management-courses, .quality-management1 {
+  width: 3.56rem;
+  left: 7.19rem;
+}
+
+.quality-management-courses, .quality-management1 {
+  color: var(--color-darkslategray-100);
+  width: 9.25rem;
+  left: 12.13rem;
+}
+
+.quality-management-courses {
+  font-size: var(--font-size-5xl);
+  color: var(--color-dodgerblue-100);
+  width: 22.69rem;
+  line-height: 2.1rem;
+  top: 10.38rem;
+  left: 3.13rem;
+}
+
+.sort-by2 {
+  color: var(--color-darkgray-100);
+  width: 3.38rem;
+  line-height: 1.63rem;
+  top: 18rem;
+  left: 49.69rem;
+}
+
+.featured16, .filters2, .latest2, .sort-by2 {
+  display: inline-block;
+  position: absolute;
+}
+
+.latest2 {
+  color: var(--color-gray-200);
+  width: 2.75rem;
+  line-height: 1.63rem;
+  top: 18rem;
+  left: 53.31rem;
+}
+
+.featured16, .filters2 {
+  text-align: center;
+}
+
+.filters2 {
+  font-size: var(--font-size-mini);
+  color: var(--color-dodgerblue-100);
+  width: 3.06rem;
+  line-height: 1.22rem;
+  top: 18.19rem;
+  left: 69rem;
+}
+
+.featured16 {
+  font-size: var(--font-size-2xs);
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  width: 4.25rem;
+  line-height: .79rem;
+  top: 23.25rem;
+  left: 4rem;
+}
+
+.itil, .itil-v4-foundation {
+  color: var(--color-dodgerblue-100);
+  width: 1.63rem;
+  line-height: 1.63rem;
+  display: inline-block;
+  position: absolute;
+  top: 22.38rem;
+  left: 24.81rem;
+}
+
+.itil-v4-foundation {
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  width: 21.94rem;
+  line-height: 1.75rem;
+  top: 24.31rem;
+}
+
+.hours16 {
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+  width: 3.63rem;
+  top: 26.25rem;
+  left: 26.06rem;
+}
+
+.beginner16, .hours16, .this-itil-certification {
+  line-height: 1.63rem;
+  display: inline-block;
+  position: absolute;
+}
+
+.beginner16 {
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-100);
+  width: 3.69rem;
+  top: 26.25rem;
+  left: 32.31rem;
+}
+
+.this-itil-certification {
+  color: var(--color-dimgray);
+  width: 32rem;
+  top: 28.25rem;
+  left: 24.81rem;
+}
+
+.div48, .div49 {
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-400);
+  text-align: right;
+  line-height: 1.13rem;
+  top: 24.5rem;
+}
+
+.div48 {
+  width: .75rem;
+  display: inline-block;
+  position: absolute;
+  left: 71.19rem;
+}
+
+.div49 {
+  width: 2.5rem;
+  left: 71.94rem;
+}
+
+.add-to-cart16, .div49, .div50 {
+  display: inline-block;
+  position: absolute;
+}
+
+.div50 {
+  color: var(--color-gray-400);
+  text-align: right;
+  width: 1.63rem;
+  line-height: .88rem;
+  top: 24.81rem;
+  left: 74.44rem;
+}
+
+.add-to-cart16 {
+  text-align: center;
+  width: 5.13rem;
+  line-height: 2.38rem;
+  top: 31rem;
+  left: 26.75rem;
+}
+
+.about-us7, .letme-study-is2 {
+  font-size: var(--font-size-3xl);
+  width: 6.56rem;
+  line-height: 1.88rem;
+  display: inline-block;
+  position: absolute;
+  top: 49.19rem;
+  left: 2.5rem;
+}
+
+.letme-study-is2 {
+  font-size: var(--font-size-mini);
+  width: 28.13rem;
+  line-height: 1.74rem;
+  top: 52.38rem;
+}
+
+.networking2, .popular-industries2 {
+  display: inline-block;
+  position: absolute;
+  left: 32.19rem;
+}
+
+.popular-industries2 {
+  font-size: var(--font-size-3xl);
+  width: 12.94rem;
+  line-height: 1.88rem;
+  top: 49.19rem;
+}
+
+.networking2 {
+  width: 5.25rem;
+  line-height: 1.63rem;
+  top: 52.13rem;
+}
+
+.business-analysis2, .business-management2, .cloud-computing2, .cyber-security3 {
+  width: 6.63rem;
+  line-height: 1.63rem;
+  display: inline-block;
+  position: absolute;
+  top: 54.44rem;
+  left: 32.19rem;
+}
+
+.business-analysis2, .business-management2, .cloud-computing2 {
+  width: 7.75rem;
+  top: 56.75rem;
+}
+
+.business-management2, .cloud-computing2 {
+  width: 8rem;
+  top: 59.06rem;
+}
+
+.business-management2 {
+  width: 10rem;
+  top: 61.38rem;
+}
+
+.about-us8, .useful-links2 {
+  display: inline-block;
+  position: absolute;
+  left: 47.63rem;
+}
+
+.useful-links2 {
+  font-size: var(--font-size-3xl);
+  width: 8.56rem;
+  line-height: 1.88rem;
+  top: 49.19rem;
+}
+
+.about-us8 {
+  width: 4.13rem;
+  line-height: 1.63rem;
+  top: 52.13rem;
+}
+
+.certification-registry5, .contact-us2, .instructor-panel2, .news-blogs2, .support2 {
+  width: 5rem;
+  line-height: 1.63rem;
+  display: inline-block;
+  position: absolute;
+  top: 54.44rem;
+  left: 47.63rem;
+}
+
+.certification-registry5, .instructor-panel2, .news-blogs2, .support2 {
+  width: 6.06rem;
+  top: 56.75rem;
+}
+
+.certification-registry5, .instructor-panel2, .support2 {
+  width: 7rem;
+  top: 59.06rem;
+}
+
+.certification-registry5, .support2 {
+  width: 9.5rem;
+  top: 61.38rem;
+}
+
+.support2 {
+  font-size: var(--font-size-3xl);
+  width: 5.75rem;
+  line-height: 1.88rem;
+  top: 49.19rem;
+  left: 61.75rem;
+}
+
+.legal-and-privacy2, .refund-and-cancellation2 {
+  width: 13.63rem;
+  line-height: 1.63rem;
+  display: inline-block;
+  position: absolute;
+  top: 54rem;
+  left: 61.75rem;
+}
+
+.legal-and-privacy2 {
+  width: 7.81rem;
+  top: 56.31rem;
+}
+
+.copyright-by-letme2, .faqs2, .service-delivery-policy2, .terms-conditions2 {
+  width: 8.69rem;
+  line-height: 1.63rem;
+  display: inline-block;
+  position: absolute;
+  top: 58.63rem;
+  left: 61.75rem;
+}
+
+.copyright-by-letme2, .faqs2, .service-delivery-policy2 {
+  width: 10.13rem;
+  top: 60.94rem;
+}
+
+.copyright-by-letme2, .faqs2 {
+  width: 2.5rem;
+  top: 63.25rem;
+}
+
+.copyright-by-letme2 {
+  text-align: center;
+  width: 32.06rem;
+  top: 70.88rem;
+  left: 23.44rem;
+}
+
+.quality-management {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+  width: 100%;
+  height: 73.19rem;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=quality-management.7436bbb6.css.map */
